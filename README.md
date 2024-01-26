@@ -1,6 +1,5 @@
 [![MasterHead](https://miro.medium.com/max/1024/1*OohqW5DGh9CQS4hLY5FXzA.png)](https://swatidhawan.io)
-<h1 align="center">Hi👋!! I'm Swati Dhawan</h1>
-<h3 align="left">I'm from Chandigarh, India. Currently working as an intern at Sun Pharma Ind.Ltd,Mohali as PLC Validation Engineer. I have good knowledge about Python as well as Data science. Looking forward to explore my skills on this platform</h3>
+<h1 align="center">Hi👋!!</h1>
 <img align="right" alt="Coding" width="400" src= "https://blog.webmatrices.com/wp-content/uploads/2020/06/make-money-coding-python-2-900x400.png"
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=swatii2610&label=Profile%20views&color=0e75b6&style=flat" alt="swatii2610" /> </p>
